@@ -18,3 +18,6 @@
 
 # version 2.1
 	- test_ycam起動時に表示されるYCAM3Dのファームウェアバージョンを16進数表記へ
+	
+# version 2.1
+	- HDR機能を実装。
